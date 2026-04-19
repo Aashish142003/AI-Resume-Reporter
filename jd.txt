@@ -1,0 +1,5 @@
+Job Title: Senior Python Developer
+Requirements:
+- Python 3.x proficiency
+- Experience with LLMs and AI APIs
+- Fast API or Flask

@@ -1,0 +1,3 @@
+Aashish Kumar
+Python Developer with experience in building AI tools.
+Skills: Python, Gemini API, Flask.

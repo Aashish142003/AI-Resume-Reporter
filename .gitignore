@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pdf
+models_list.txt
+resume_report.md
+SmartResume_Analysis.pdf
+*.pyc
+.ipynb_checkpoints/
